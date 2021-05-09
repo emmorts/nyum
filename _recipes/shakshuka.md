@@ -9,30 +9,31 @@ time: 45 minutes
 author: Tomas
 source: https://www.allrecipes.com/recipe/245362/chef-johns-shakshuka/
 spicy: ✓
+veggie: ✓
 favorite: ✓
 ---
 
-* `2 tablespoon` olive oil
-* `1` large onion, diced
-* `½ cup` sliced fresh mushrooms
-* `1 teaspoon` salt, or more to taste
+* `2 tbsp` olive oil
+* `1` diced onion
+* `½ cup` sliced mushrooms
+* `1 tsp` salt
 
 > Heat olive oil in a large, heavy skillet over medium-high heat. Add onions and mushrooms. Sprinkle with salt. Cook and stir until mushrooms release all of their liquid and start to brown, about `10 minutes`.
 
 ---
 
-* `1 cup` diced red bell pepper
-* `1` jalapeno pepper, seeded and sliced
+* `1` diced red bell pepper
+* `1` sliced jalapeno pepper
 
 > Stir in bell peppers and jalapeno pepper. Cook and stir until peppers begin to soften up, about `5 minutes`.
 
 ---
 
-* `1 teaspoon` cumin
-* `½ teaspoon` paprika
-* `½ teaspoon` ground turmeric
-* `½ teaspoon` ground black pepper, plus more to taste
-* `¼ teaspoon` cayenne pepper
+* `1 tsp` cumin
+* `½ tsp` paprika
+* `½ tsp` turmeric
+* `½ tsp` black pepper
+* `¼ tsp` cayenne pepper
 
 
 > Season with cumin, paprika, turmeric, black pepper, and cayenne. Stir and cook to "wake up" the flavors, about `1 minute`. 
@@ -47,15 +48,13 @@ favorite: ✓
 ---
 
 * `3` large eggs
-* salt to taste
-* ground black pepper, to taste
 
 > Make a depression in the sauce for each egg with a large spoon. Crack egg into a small ramekin and slide gently into each indentation; repeat with the rest of the eggs. Season with salt and pepper. Cover and cook until eggs are to your desired doneness.
 
 ---
 
-* `2 tablespoons` crumbled feta cheese
-* `2 tablespoons` chopped fresh parsley
+* `2 tbsp` crumbled feta cheese
+* `2 tbsp` chopped fresh parsley
 
 
 > Top with feta cheese and parsley.
