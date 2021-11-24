@@ -6,7 +6,7 @@ description: This North African one-dish-meal is so fast, easy, and delicious. B
 image: shakshuka.jpg
 size: 2 servings
 time: 45 minutes
-author: Tomas
+author: Chef John
 source: https://www.allrecipes.com/recipe/245362/chef-johns-shakshuka/
 spicy: ✓
 veggie: ✓
